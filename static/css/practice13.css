@@ -1,0 +1,72 @@
+
+.top {
+    position: fixed;
+}
+
+
+.container-fluid {
+   border-style: solid;
+   border-width: 1px;
+   height: 60px;
+   position: fixed;
+ 
+}
+.section {
+    height: 100%;
+    float: left;
+    width: 20%;
+    padding: 1em;
+    border-color: gray;
+    position: fixed;
+    
+}
+
+
+.center {
+    width: 70%;
+    margin-left: 18em;
+    position:inherit ;
+    
+
+    margin-right: 10em;
+    
+    
+    
+}
+
+.input-box {
+    margin-bottom: 3px;
+    margin-top: 10px;
+    width: 100%;
+}
+.center-text {
+    padding-top: 2em;
+}
+
+hr {
+    border: 0;
+    background-color: black;
+    height: 2px;
+}
+
+.btn {
+    float: right;
+    color: white;
+    border: 1px;
+}
+
+.input-l {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.context {
+    padding-top: 5em;
+    
+}
+
+.header {
+    padding-bottom: 3em;
+    position: fixed;
+}
+
